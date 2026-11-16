@@ -26,11 +26,16 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/UjjwalKaul/alt-tab">🕹️ AltTab</a></h3>
+      <h3 align="center"><a href="https://alt-tab-delta.vercel.app" target="_blank">🕹️ AltTab</a></h3>
+      <p align="center">
+        <a href="https://alt-tab-delta.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-alt--tab--delta.vercel.app-00DC82?style=flat-square&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+      </p>
       <p align="center"><b>Daily Focus-Break Mini-Game Hub</b></p>
       <ul>
-        <li>Web-based daily mini-game hub designed for 3–5 min focus breaks and team engagement.</li>
-        <li>Features <b>Chronicle</b>: a daily timeline ordering puzzle with butter-smooth Swapy FLIP drag-and-drop physics and progressive locking mechanics.</li>
+        <li>Curated daily 3–5 min focus puzzles and brain breaks for your workday.</li>
+        <li>Features <b>Chronicle</b>: a daily timeline ordering puzzle with butter-smooth Swapy FLIP drag-and-drop physics and progressive card locking.</li>
         <li>Automated self-healing AI puzzle generation pipeline.</li>
       </ul>
       <p align="center">
@@ -38,7 +43,12 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/UjjwalKaul/webremote">📱 Web Remote</a></h3>
+      <h3 align="center"><a href="https://github.com/UjjwalKaul/webremote" target="_blank">📱 Web Remote</a></h3>
+      <p align="center">
+        <a href="https://github.com/Gathin23/cleanyourtv/blob/main/SHOWCASE.md" target="_blank">
+          <img src="https://img.shields.io/badge/CleanYourTV-Showcase-8A2BE2?style=flat-square&logo=android" alt="Showcase" />
+        </a>
+      </p>
       <p align="center"><b>Zero-Install TV Companion Remote</b></p>
       <ul>
         <li>Tactile web remote and TV keyboard served over local Wi-Fi via on-device MicroQR pairing.</li>
@@ -58,22 +68,41 @@
 
 #### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,kotlin,java,ts,js,py,html,css&theme=dark" alt="Languages" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="42" height="42" />
 </p>
 
 #### 📱 Mobile & Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=android,react,nextjs,tailwind,redux&theme=dark" alt="Mobile & Frontend" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="42" height="42" />
 </p>
 
 #### 🗄️ Backend, Databases & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,docker,git&theme=dark" alt="Backend & DevOps" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="42" height="42" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="42" height="42" />
 </p>
 
 ---
 
-### 📊 GitHub Activity & Streak (Zero-Downtime)
+### 📊 GitHub Activity & Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ujjwalkaul&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
