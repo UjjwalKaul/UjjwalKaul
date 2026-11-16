@@ -13,6 +13,7 @@
   <a href="https://github.com/UjjwalKaul" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <img src="https://img.shields.io/github/followers/UjjwalKaul?label=Followers&style=flat-square&logo=github&color=0077b5" alt="Followers" />
   <img src="https://komarev.com/ghpvc/?username=ujjwalkaul&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
@@ -20,60 +21,64 @@
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
-- **[Web Remote for Android TV & Google TV](https://github.com/UjjwalKaul/webremote)**
-  - A zero-install, tactile web remote and TV keyboard served over local Wi-Fi by on-device QR code.
-  - Featured on the official **[CleanYourTV Showcase](https://github.com/Gathin23/cleanyourtv/blob/main/SHOWCASE.md)**.
-  - Built with pure Android, Java, vanilla JavaScript, WebSocket, and zero cloud dependencies.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/UjjwalKaul/alt-tab">🕹️ AltTab</a></h3>
+      <p align="center"><b>Daily Focus-Break Mini-Game Hub</b></p>
+      <ul>
+        <li>Web-based daily mini-game hub designed for 3–5 min focus breaks and team engagement.</li>
+        <li>Features <b>Chronicle</b>: a daily timeline ordering puzzle with butter-smooth Swapy FLIP drag-and-drop physics and progressive locking mechanics.</li>
+        <li>Automated self-healing AI puzzle generation pipeline.</li>
+      </ul>
+      <p align="center">
+        <code>Next.js 16</code> · <code>React 19</code> · <code>TypeScript</code> · <code>Tailwind v4</code> · <code>MongoDB</code> · <code>Gemini AI</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/UjjwalKaul/webremote">📱 Web Remote</a></h3>
+      <p align="center"><b>Zero-Install TV Companion Remote</b></p>
+      <ul>
+        <li>Tactile web remote and TV keyboard served over local Wi-Fi via on-device MicroQR pairing.</li>
+        <li>Merged into the official <b><a href="https://github.com/Gathin23/cleanyourtv/blob/main/SHOWCASE.md">CleanYourTV Showcase</a></b>.</li>
+        <li>Completely offline, self-hosted in-memory WebSocket server with zero cloud dependencies.</li>
+      </ul>
+      <p align="center">
+        <code>Android TV</code> · <code>Java</code> · <code>WebSocket</code> · <code>Vanilla JS</code> · <code>Google TV</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,kotlin,java,ts,js,py,html,css&theme=dark" alt="Languages" />
 </p>
 
 #### 📱 Mobile & Frontend
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=android,react,nextjs,tailwind,redux&theme=dark" alt="Mobile & Frontend" />
 </p>
 
 #### 🗄️ Backend, Databases & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,docker,git&theme=dark" alt="Backend & DevOps" />
 </p>
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Streak (Zero-Downtime)
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=ujjwalkaul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=ujjwalkaul&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ujjwalkaul&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="98%" />
 </div>
 
 <div align="center" style="margin-top: 15px;">
-  <img src="https://streak-stats.demolab.com?user=ujjwalkaul&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ujjwalkaul&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="98%" />
 </div>
